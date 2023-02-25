@@ -15,7 +15,7 @@ main {
     gap: 1rem;
     background-image: url(./assets/sun.jpg);
     background-repeat: no-repeat;
-    background-size: 300px 500px;
+    background-size: 30% 90%;
     background-position: center;
     padding: 5%;
 }
