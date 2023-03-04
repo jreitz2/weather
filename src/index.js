@@ -12,6 +12,7 @@ import './assets/snow.svg';
 import './assets/sun.jpg';
 import './assets/wind.svg';
 
-import './forecast.js'
-import {changeDom} from './dom.js'
+import './forecast.js';
+import {changeDom} from './dom.js';
 changeDom();
+import './geolocate.js';
